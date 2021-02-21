@@ -1,0 +1,2 @@
+radius,origin_x,origin_y,maxItr,width,height,dpi,gamma,normalize
+0.003000,0.287000,0.483000,1024,10,10,72,0.800000,Power

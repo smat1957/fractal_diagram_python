@@ -1,0 +1,2 @@
+c_real,c_imag,radius,origin_x,origin_y,maxItr,width,height,dpi,gamma,normalize
+-0.749800,0.040400,0.100000,-0.350000,-0.200000,1024,10,10,72,0.600000,Power
